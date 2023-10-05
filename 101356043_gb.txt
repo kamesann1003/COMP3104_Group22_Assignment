@@ -1,0 +1,7 @@
+Student name: Luis Rodrigo Procopio Andrada
+Student ID: 101356043
+
+
+George Brown College
+(This file will contain information about George Brown
+college)
