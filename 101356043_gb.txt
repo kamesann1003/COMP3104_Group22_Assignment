@@ -5,3 +5,7 @@ Student ID: 101356043
 George Brown College
 (This file will contain information about George Brown
 college)
+
+1- George Brown is a Canadian college with 3 campus, all located in Toronto Ontario.
+2- There are more than 450 programs
+3- There are 7 centre types: ARTS, DESIGN & INFORMATION TECHNOLOGY; BUSINESSl; COMMUNITY SERVICES & EARLY CHILDHOOD; CONSTRUCTION & ENGINEERING TECHNOLOGIES; HEALTH SCIENCES; HOSPITALITY & CULINARY ARTS; PREPARATORY & LIBERAL STUDIES
