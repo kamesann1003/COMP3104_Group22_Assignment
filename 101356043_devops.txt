@@ -9,3 +9,7 @@ DevOps course)
 1- The course focus in exploring DevOps best practices along with some tools and technologies required to implement DevOps.
 2- By the end of the course, you will be prepared to explore job opportunities as a DevOps engineer.
 3- The teacher for this course is Pritesh Patel
+
+Student review about learning DevOps:
+- Course Structure: The course was well-structured, with a clear syllabus and well-defined learning objectives. It provided an excellent balance between theory and hands-on practice, making it easier to grasp complex concepts.
+- Collaboration: The course emphasized teamwork, simulating the collaborative nature of DevOps in the professional world. This helped me learn not just the technical aspects of DevOps but also the importance of communication and collaboration.
