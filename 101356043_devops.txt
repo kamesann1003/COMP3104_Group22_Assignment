@@ -5,3 +5,7 @@ Student ID: 101356043
 COMP 3104 DevOps
 (This file will contain information about COMP 3104
 DevOps course)
+
+1- The course focus in exploring DevOps best practices along with some tools and technologies required to implement DevOps.
+2- By the end of the course, you will be prepared to explore job opportunities as a DevOps engineer.
+3- The teacher for this course is Pritesh Patel
