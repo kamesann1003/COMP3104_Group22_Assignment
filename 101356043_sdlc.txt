@@ -2,6 +2,10 @@ Student name: Luis Rodrigo Procopio Andrada
 Student ID: 101356043
 
 
-Important of learning DevOps engineer in software development cycle
+Importance of learning DevOps engineer in software development cycle
 (This file will contain details about important of learning
 DevOps engineer in software development cycle)
+
+1- DevOps allows for constant review throughout the software development process to think about the software holistically.
+2- Faster Deployment: DevOps practices aim to automate and integrate the process of software creation and infrastructure changes, which leads to quicker deployments.
+3- Improved Collaboration: DevOps fosters a culture of communication and collaboration between Development and Operations teams, thereby reducing silos and enhancing efficiency.
