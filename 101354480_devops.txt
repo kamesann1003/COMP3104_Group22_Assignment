@@ -1,1 +1,2 @@
 This class teaches us about automation of processes in a cross-functional team / platform. What's important is that to understand not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.
+DevOps focusses the developers' attention on those tasks, leaving the other tasks to tools that can accelerate development
