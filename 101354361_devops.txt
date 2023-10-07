@@ -1,0 +1,1 @@
+DevOps is a holistic approach to software development and IT operations that combines automation, collaboration, and cultural change to achieve faster, more reliable, and higher-quality software delivery
