@@ -13,3 +13,4 @@ ability to:
 provide solutions using industry standard tools and techniques such as 
 continuous integration/delivery/deployment strategies, software 
 development lifecycle, application containerization for deployment, etc.
+2. Perform hand-on lab work by applying DevOps techniques.
