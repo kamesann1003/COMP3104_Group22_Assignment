@@ -1,1 +1,2 @@
  DevOps practices and tools enable teams to automate and streamline the development and deployment processes.
+ DevOps encourages collaboration and communication between development and operations teams. 
