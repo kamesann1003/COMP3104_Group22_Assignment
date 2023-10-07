@@ -9,4 +9,7 @@ complete, and measure.
 
 Why is SDLC important?
 Software development can be challenging to manage due to changing 
-requirements, technology upgrades, and cross-functional collaboration. 
+requirements, technology upgrades, and cross-functional collaboration.The 
+software development lifecycle (SDLC) methodology provides a systematic 
+management framework with specific deliverables at every stage of the 
+software development process.
