@@ -6,3 +6,5 @@ through forward planning so that software meets customer expectations
 during production and beyond. This methodology outlines a series of steps 
 that divide the software development process into tasks you can assign, 
 complete, and measure.
+
+Why is SDLC important?
