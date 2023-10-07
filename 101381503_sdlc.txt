@@ -8,3 +8,5 @@ that divide the software development process into tasks you can assign,
 complete, and measure.
 
 Why is SDLC important?
+Software development can be challenging to manage due to changing 
+requirements, technology upgrades, and cross-functional collaboration. 
